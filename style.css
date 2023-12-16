@@ -640,11 +640,6 @@ button:hover {
     font-size: 15px;
 }
 
-/* body {
-    font-family: Arial, sans-serif;
-     margin: 20px;
-  } */
-
   .container {
     border: 2px solid #333;
     padding: 20px;
@@ -690,40 +685,6 @@ button:hover {
 }
 
 
-/* float */
-/* .column-container {
-    width: 100%;
-    overflow: hidden;
-}
-
-.column {
-    float: left;
-    width: 50%;
-    box-sizing: border-box;
-    padding: 2px; 
-} */
-
-/* Стили для каждой колонки */
-/* .column-left {
-    background-color: lightblue;
-} */
-
-/* Clearfix для контейнера
-.column-container::after {
-    content: "";
-    display: table;
-    clear: both;
-} */
-
-/* .section-seven img{
-    border-radius: 100px;
-}
-
-.section-seven label {
-    font-family: 'Montserrat', sans-serif;
-} */
-
-
 .section-seven img {
     width: 150px;
 }
@@ -731,7 +692,6 @@ button:hover {
 
 #enjoy {
     padding: 7px;
-    /* margin-top: 150px; */
     width: 80%;
     box-sizing: border-box;
     float: right;
